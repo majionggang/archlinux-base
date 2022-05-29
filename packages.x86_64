@@ -1,0 +1,7 @@
+arch-install-scripts
+base
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+syslinux
