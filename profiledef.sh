@@ -3,8 +3,8 @@
 
 iso_name="archlinux-base"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="freeflights"
-iso_application="Arch Linux baseline"
+iso_publisher="majionggang"
+iso_application="Arch Linux base"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
