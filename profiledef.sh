@@ -4,7 +4,7 @@
 iso_name="archlinux-base"
 iso_label="ARCH_$(date +%Y%m)"
 iso_publisher="majionggang"
-iso_application="Arch Linux base"
+iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
